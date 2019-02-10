@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: beea32ac148bacf499317a539a5c0146
+timeCreated: 1505601658
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _WaterMap: {fileID: 2800000, guid: c781c1bb94fb0e944a34efb2d15461bf, type: 3}
+  - _FoamMap: {fileID: 2800000, guid: c4d4fc18cc9f73c49a59628b59c947af, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

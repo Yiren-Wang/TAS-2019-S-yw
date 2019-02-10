@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Yiren Wang\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Yiren Wang\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Yiren Wang\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_TAS_W02.-351845978.00" t="ExcludeRecursive" />
+    <e p="D:\unityProject\TAS_W02" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="BezierExample.cs" t="Include" />
+        <e p="ButtonsForLAUB.cs" t="Include" />
+        <e p="DCG Water Shader" t="Include">
+          <e p="README.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="Buoyancy.cs" t="Include" />
+            <e p="DCGWater.cs" t="Include" />
+            <e p="MirrorReflection.cs" t="Include" />
+            <e p="ReflectionProbeHelper.cs" t="Include" />
+            <e p="WaterCutoutMask.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="DCG Water Surface (Simple No depth).shader" t="Include" />
+            <e p="DCG Water Surface (Simple).shader" t="Include" />
+            <e p="DCG Water Surface (Tessellation).shader" t="Include" />
+            <e p="DCG Water Surface.shader" t="Include" />
+            <e p="DepthMask.shader" t="Include" />
+          </e>
+        </e>
+        <e p="DrawBezierExample.cs" t="Include" />
+        <e p="LookAtUnityBezier.cs" t="Include" />
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TAS_W02.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
