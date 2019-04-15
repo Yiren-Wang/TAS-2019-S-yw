@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 5200f41df39f88c418cd20a26fec68ec
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature.001
+    100002: BezierCurve
+    100004: Body
+    100006: //RootNode
+    100008: Cube
+    100010: Cube.001
+    100012: Cube.002
+    100014: Cylinder
+    100016: LittleEvil
+    100018: LowerArm1.L
+    100020: LowerArm1.L.001
+    100022: LowerArm1.L.001_end
+    100024: LowerArm1.L_end
+    100026: LowerArm1.R
+    100028: LowerArm1.R.001
+    100030: LowerArm1.R.001_end
+    100032: LowerArm1.R_end
+    100034: LowerArm2.L
+    100036: LowerArm2.L.001
+    100038: LowerArm2.L.001_end
+    100040: LowerArm2.L_end
+    100042: LowerArm2.R
+    100044: LowerArm2.R.001
+    100046: LowerArm2.R.001_end
+    100048: LowerArm2.R_end
+    100050: LowerArm3.L
+    100052: LowerArm3.L.001
+    100054: LowerArm3.L.001_end
+    100056: LowerArm3.L_end
+    100058: LowerArm3.R
+    100060: LowerArm3.R.001
+    100062: LowerArm3.R.001_end
+    100064: LowerArm3.R_end
+    100066: LowerArm4.L
+    100068: LowerArm4.R
+    100070: LowerArm5.L
+    100072: LowerArm5.L.001
+    100074: LowerArm5.L.001_end
+    100076: LowerArm5.L_end
+    100078: LowerArm5.R
+    100080: LowerArm5.R.001
+    100082: LowerArm5.R.001_end
+    100084: LowerArm5.R_end
+    100086: Mini Devil.001
+    100088: Shoulder.L
+    100090: Shoulder.R
+    100092: Shoulder1.L
+    100094: Shoulder1.R
+    100096: Shoulder2.L
+    100098: Shoulder2.R
+    100100: Shoulder3.L
+    100102: Shoulder3.L.001
+    100104: Shoulder3.L.001_end
+    100106: Shoulder3.R
+    100108: Shoulder3.R.001
+    100110: Shoulder3.R.001_end
+    100112: Sphere
+    100114: Sphere.001
+    100116: Tail1
+    100118: Tail2
+    100120: Tail3
+    100122: Tail4
+    100124: Tail5
+    100126: Tail5.001
+    100128: Tail5.001_end
+    100130: Tail5_end
+    100132: UpperArm1.L
+    100134: UpperArm1.R
+    100136: UpperArm2.L
+    100138: UpperArm2.R
+    100140: UpperArm3.L
+    100142: UpperArm3.R
+    100144: UpperArm4.L
+    100146: UpperArm4.R
+    100148: UpperBody
+    100150: UpperBody_end
+    400000: Armature.001
+    400002: BezierCurve
+    400004: Body
+    400006: //RootNode
+    400008: Cube
+    400010: Cube.001
+    400012: Cube.002
+    400014: Cylinder
+    400016: LittleEvil
+    400018: LowerArm1.L
+    400020: LowerArm1.L.001
+    400022: LowerArm1.L.001_end
+    400024: LowerArm1.L_end
+    400026: LowerArm1.R
+    400028: LowerArm1.R.001
+    400030: LowerArm1.R.001_end
+    400032: LowerArm1.R_end
+    400034: LowerArm2.L
+    400036: LowerArm2.L.001
+    400038: LowerArm2.L.001_end
+    400040: LowerArm2.L_end
+    400042: LowerArm2.R
+    400044: LowerArm2.R.001
+    400046: LowerArm2.R.001_end
+    400048: LowerArm2.R_end
+    400050: LowerArm3.L
+    400052: LowerArm3.L.001
+    400054: LowerArm3.L.001_end
+    400056: LowerArm3.L_end
+    400058: LowerArm3.R
+    400060: LowerArm3.R.001
+    400062: LowerArm3.R.001_end
+    400064: LowerArm3.R_end
+    400066: LowerArm4.L
+    400068: LowerArm4.R
+    400070: LowerArm5.L
+    400072: LowerArm5.L.001
+    400074: LowerArm5.L.001_end
+    400076: LowerArm5.L_end
+    400078: LowerArm5.R
+    400080: LowerArm5.R.001
+    400082: LowerArm5.R.001_end
+    400084: LowerArm5.R_end
+    400086: Mini Devil.001
+    400088: Shoulder.L
+    400090: Shoulder.R
+    400092: Shoulder1.L
+    400094: Shoulder1.R
+    400096: Shoulder2.L
+    400098: Shoulder2.R
+    400100: Shoulder3.L
+    400102: Shoulder3.L.001
+    400104: Shoulder3.L.001_end
+    400106: Shoulder3.R
+    400108: Shoulder3.R.001
+    400110: Shoulder3.R.001_end
+    400112: Sphere
+    400114: Sphere.001
+    400116: Tail1
+    400118: Tail2
+    400120: Tail3
+    400122: Tail4
+    400124: Tail5
+    400126: Tail5.001
+    400128: Tail5.001_end
+    400130: Tail5_end
+    400132: UpperArm1.L
+    400134: UpperArm1.R
+    400136: UpperArm2.L
+    400138: UpperArm2.R
+    400140: UpperArm3.L
+    400142: UpperArm3.R
+    400144: UpperArm4.L
+    400146: UpperArm4.R
+    400148: UpperBody
+    400150: UpperBody_end
+    2100000: No Name
+    2100002: 03 - Default
+    2300000: BezierCurve
+    2300002: Cube
+    2300004: Cube.001
+    2300006: Cube.002
+    2300008: Cylinder
+    2300010: Mini Devil.001
+    2300012: Sphere
+    2300014: Sphere.001
+    3300000: BezierCurve
+    3300002: Cube
+    3300004: Cube.001
+    3300006: Cube.002
+    3300008: Cylinder
+    3300010: Mini Devil.001
+    3300012: Sphere
+    3300014: Sphere.001
+    4300000: LittleEvil
+    4300002: BezierCurve
+    4300004: Sphere.001
+    4300006: Cylinder
+    4300008: Cube.002
+    4300010: Cube.001
+    4300012: Cube
+    4300014: Sphere
+    4300016: Mini Devil.001
+    9500000: //RootNode
+    13700000: LittleEvil
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
